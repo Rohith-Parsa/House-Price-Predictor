@@ -22,7 +22,8 @@ This project uses a regression model to predict house prices in King County, WA 
 3. Open `house_price_predictor.ipynb` in Jupyter Notebook
 
 ## 📌 Results
-Achieved ~X% R² score with Random Forest.
+Achieved 0.88% R² score with Random Forest.
+Achieved 0.87% R² score with Linear Regression.
 
 
 ## 👤 Author
